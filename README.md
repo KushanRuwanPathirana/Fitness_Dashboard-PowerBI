@@ -82,6 +82,21 @@ The dataset includes simulated or real fitness tracking data with attributes suc
 - Mobile-friendly dashboard version
 
 ---
+## 📸 Dashboard Preview
+
+<table> 
+<tr>
+<td><img src="Screenshots/Home.png" width=480 alt="Uber Dashboard Overview"></td>
+<td><img src="Screenshots/Overview.png" width=480 alt="Uber Dashboard Home"></td>
+</tr>
+<tr>
+<td><img src="Screenshots/Calculator.png" width=480 alt="Uber Dashboard Home"></td>
+<td><img src="Screenshots/Members.png" width=480 alt="Uber Dashboard Overview"></td>
+</tr>
+</table>
+
+---
+
 ## 👤 Author
 
 **Kushan Ruwan Pathirana**
